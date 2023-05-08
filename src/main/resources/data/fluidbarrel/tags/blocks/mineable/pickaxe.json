@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "fluidbarrel:empty_iron_barrel",
+    "fluidbarrel:water_iron_barrel",
+    "fluidbarrel:lava_iron_barrel"
+  ]
+}

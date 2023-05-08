@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fluidbarrel:block/empty_iron_barrel"
+    }
+  }
+}

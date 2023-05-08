@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "fluidbarrel:block/barrel_bottom",
+    "up": "fluidbarrel:block/lavabarreltop0",
+    "north": "fluidbarrel:block/water_barrel_side",
+    "east": "fluidbarrel:block/water_barrel_side",
+    "south": "fluidbarrel:block/water_barrel_side",
+    "west": "fluidbarrel:block/water_barrel_side",
+    "particle": "fluidbarrel:block/water_barrel_side"
+  }
+}
